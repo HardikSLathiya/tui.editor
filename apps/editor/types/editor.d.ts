@@ -274,7 +274,7 @@ export class Editor extends EditorCore {
   removeToolbarItem(itemName: string): void;
 }
 
-export type SelectionPos = Sourcepos | [from: number, to: number];
+export type SelectionPos = Sourcepos;
 export type EditorPos = MdPos | number;
 export interface NodeRangeInfo {
   range: SelectionPos;
