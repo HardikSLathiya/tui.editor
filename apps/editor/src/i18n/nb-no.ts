@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['nb', 'nb-NO'], {
   Markdown: 'Funksjonaliteter',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Skriv',
   Preview: 'Forhåndsvisning',
   Headings: 'Overskrift',

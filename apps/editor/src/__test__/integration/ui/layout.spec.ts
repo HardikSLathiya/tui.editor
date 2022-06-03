@@ -35,7 +35,7 @@ function getMdSwitch() {
 }
 
 function getWwSwitch() {
-  return screen.getByText('WYSIWYG')!;
+  return screen.getByText('Visual')!;
 }
 
 function clickMdSwitch() {

@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['hr', 'hr-HR'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Piši',
   Preview: 'Pregled',
   Headings: 'Naslovi',

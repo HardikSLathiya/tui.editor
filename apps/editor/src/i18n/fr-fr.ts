@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['fr', 'fr-FR'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Écrire',
   Preview: 'Aperçu',
   Headings: 'En-têtes',

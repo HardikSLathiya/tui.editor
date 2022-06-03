@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['ja', 'ja-JP'], {
   Markdown: 'マークダウン',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: '編集する',
   Preview: 'プレビュー',
   Headings: '見出し',

@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['cs', 'cs-CZ'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Napsat',
   Preview: 'Náhled',
   Headings: 'Nadpisy',

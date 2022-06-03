@@ -7,7 +7,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['ru', 'ru-RU'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Редактор',
   Preview: 'Просмотр',
   Headings: 'Заголовки',

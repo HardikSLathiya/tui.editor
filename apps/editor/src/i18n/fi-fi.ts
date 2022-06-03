@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['fi', 'fi-FI'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Kirjoita',
   Preview: 'Esikatselu',
   Headings: 'Otsikot',

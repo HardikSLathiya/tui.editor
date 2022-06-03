@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['tr', 'tr-TR'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Düzenle',
   Preview: 'Ön izleme',
   Headings: 'Başlıklar',

@@ -6,7 +6,7 @@ import Editor from '../editorCore';
 
 Editor.setLanguage(['uk', 'uk-UA'], {
   Markdown: 'Markdown',
-  WYSIWYG: 'WYSIWYG',
+  WYSIWYG: 'Visual',
   Write: 'Написати',
   Preview: 'Попередній перегляд',
   Headings: 'Заголовки',
